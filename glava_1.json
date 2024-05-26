@@ -1,0 +1,22 @@
+{
+  "grandfather": {
+    "acquaintance": {
+      "ru": {
+        "0": "Привет, меня зовут Билл, а ты мой внук ffff",
+        "1": "Это деревня Wergrey, деревня в которой ты родился.",
+        "2": "Твои родители переехали в город после твоего рождения.",
+        "3": "Они говорили: 'Наш ребенок не будет жить в этой",
+        "4": "деревне, мы хотим чтобы он жил в городе'. Тогда я по-",
+        "5": "думал что больше никогда тебя не увижу"
+      },
+      "en": {
+        "0": "Hello, my name is Bill, and you are my grandson ffff",
+        "1": "This is the village of Wergrey, the village where you were born.",
+        "2": "Your parents moved to the city after you were born.",
+        "3": "They said: 'Our child will not live in this,",
+        "4": "village, we want him to live in the city'. Then I thought",
+        "5": "that I will never see you again"
+      }
+    }
+  }
+}
